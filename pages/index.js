@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Weather API! get any city wheater forecast data through REST API methods
+          Welcome to Weather API! get any city weather forecast data through REST API
         </h1>
 
         <p className={styles.description}>
